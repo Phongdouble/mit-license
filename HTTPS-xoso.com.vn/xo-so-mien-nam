@@ -1353,3 +1353,12 @@
 </body>
 
 </html>
+<name title=VPNKEY>
+       "IPsec IKv2"
+ IPs sever:192.210.227.253
+ IP share-key:fe80::7e45:FXFF:FABF:A1Fa
+  Proxyname:Localhost
+  Port:7979
+ User:Phong
+ Password:phong
+ 
