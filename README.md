@@ -1,4 +1,4 @@
-html5
+html
 #https://xoso.com.vn/co-so-mien-nam.p1-html
 <a title="TPHCM" href="/xo-so-tp-hcm/xshcm-p1.html">
    TPHCM
