@@ -1,20 +1,19 @@
-html
-#https://xoso.com.vn/co-so-mien-nam.p1-html
-<a title="TPHCM" href="/xo-so-tp-hcm/xshcm-p1.html">
-   TPHCM
+#html
+# https://xoso.com.vn/xo-so-mien-nam.p1-html
+<a title="Bến Tre" href="/xo-so-ben-tre/xsbtre-p1.html">
+   BẾN TRE
        </a>
        </td>
        <td>
-<a title="Đồng Tháp" href="/xo-so-dong-thap/xsdthap-p1.html">
-   ĐỒNG THÁP
+<a title="Vũng Tàu" href="/xo-so-vung-tau/xsvtau-1.html">
+   VŨNG TÀU
        </a>
        </td>
        <td>
-<a title="Cà Mau" href="/xo-so-ca-mau/xscmau-p1.html">
-   CÀ MAU
+<a title="Bạc Liêu" href="/xo-so-bac-lieu/xsblieu-p1.html">
+   BẠC LIÊU
        </a>
        </td>
        <td>
-Number:02 
-TPHCM     Đồng Tháp     Cà Mau
-    02            02         02
+Bến Tre     Vũng Tàu     Bạc Liêu
+      09           09            09
