@@ -1,19 +1,20 @@
-#html
-# https://xoso.com.vn/xo-so-mien-nam.p1-html
-<a title="Bến Tre" href="/xo-so-ben-tre/xsbtre-p1.html">
-   BẾN TRE
+# html
+# https://xoso.com.vn/xo-so-mien-nam-p1.html
+<a title "Vĩnh Long" href="/xo-so-vinh-long/xsvlong-p1.html">
+   VĨNH LONG
        </a>
        </td>
        <td>
-<a title="Vũng Tàu" href="/xo-so-vung-tau/xsvtau-1.html">
-   VŨNG TÀU
+<a title "Bình Dương" href="/xo-so-binh-duong/xsbduong.p1-html">
+   BÌNH DƯƠNG
        </a>
        </td>
        <td>
-<a title="Bạc Liêu" href="/xo-so-bac-lieu/xsblieu-p1.html">
-   BẠC LIÊU
+<a title "Trà Vinh" href=/xo-so-tra-vinh/xstvinh.p1-html">
+   TRÀ VINH
        </a>
        </td>
        <td>
-Bến Tre     Vũng Tàu     Bạc Liêu
-      09           09            09
+Vĩnh Long     Bình Dương     Trà Vinh
+        95             95           95
+
