@@ -1,29 +1,21 @@
 # html
-DOCTYPE!
+#DOCTYPE!
 
-<a title="Vĩnh Long" href="/xo-so-vinh-long/xsvlong-p1.html">
-   VĨNH LONG
+<a title="Đồng Nai" href="/xo-so-dong-nai/xsdnai-p1.html">
+   ĐỒNG NAI
        </a>
        </td>
        <td>
-
-
-<a title="Bình Dương" href="/xo-so-binh-duong/xsbduong-p1.html">
-   BÌNH DƯƠNG
+<a title="Cần Thơ" href="/xo-so-can-tho/xsctho-p1.html">
+   CẦN THƠ
        </a>
        </td>
        <td>
+<a title="Sóc Trăng" href="/xo-so-soc-trang/xsstrang-p1.html">
+   SÓC TRĂNG
+        </a>
+        </td>
+        <td>
+# https:-xoso.com.vn/xo-so-mien-nam.p1-html
 
-
-<a title="Trà Vinh" href="/xo-so-tra-vinh/xstvinh-p1.html">
-   TRÀ VINH
-       </a>
-       </td>
-       <td>
-
-
-# https://xoso.com.vn/xo-so-mien-nam.p1-html">
-
-
-Vĩnh Long     Bình Dương     Trà Vinh
-        19             19
+Bug:86
