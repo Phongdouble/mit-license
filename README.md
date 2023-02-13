@@ -1,21 +1,33 @@
-# html
-#DOCTYPE!
+Date: Tuesday 14 Feb 2023
+Time: GMT+7
+From: Vietnames
+Localtion: https://whatismyipaddress.com/ip/2402:800:62c7:dbba:1ca4:e19e:940d:b89
+User name: Phong
+"http:-github.com/phongdouble"
+Website correction ipdress:<
+ # https://whatismyipaddress.com/ip/">
+Website bug number : 
+< # https://xoso.com.vn/xo-so-mien-nam>
+< # https://xoso.com.vn>
 
-<a title="Đồng Nai" href="/xo-so-dong-nai/xsdnai-p1.html">
-   ĐỒNG NAI
+#HTML5
+
+ DOCTYPE!
+
+<a title="Bến Tre" href="/xo-so-ben-tre/xsbtre.p1-html">
+   BẾN TRE
        </a>
        </td>
        <td>
-<a title="Cần Thơ" href="/xo-so-can-tho/xsctho-p1.html">
-   CẦN THƠ
+<a title="Vũng Tàu" href="/xo-so-vung-tau/xsvtau.p1-html">
+   VŨNG TÀU
        </a>
        </td>
        <td>
-<a title="Sóc Trăng" href="/xo-so-soc-trang/xsstrang-p1.html">
-   SÓC TRĂNG
-        </a>
-        </td>
-        <td>
-# https:-xoso.com.vn/xo-so-mien-nam.p1-html
+<a title="Bạc Liêu" href="/xo-so-bac-lieu/xsblieu.p1-html">
+   BẠC LIÊU
+       </a>
+       </td>
+       <td>
+       <a>
 
-Bug:86
