@@ -1,18 +1,21 @@
-<a title "Tay Ninh" href="/xo-so-mien-nam/xstn-p1.html">
-   Tay Ninh
-#code"85"
+# https:-xoso.com.vn/xo-so-mien-nam
+<a title="Ben Tre" href="/xo-so-mien-nam/xsbt-p1.html">
+    Ben Tre
+#code:"21"
     </a>
-       </td>
-           <td>
-<a title "An Giang" href="/xo-so-mien-nam/xsag-p1.html">
-   An Giang
-    "50"
+    </td>
+    <td>
+<a title="Vung Tau" href="/xo-so-mien-nam/xsvt-p1.html">
+    Vung Tau
+#code:"12"
     </a>
-       </td>
-           <td>
-<a title "Binh Thuan" href="/xo-so-mien-nam/xsbt-p1.html">
-   Binh Thuan
-   </a>
-      </td>
-          <td><td>
+    </td>
+    <td>
+<a title="Bac Lieu" href="/xo-so-mien-nam/xsbl-p1.html">
+    Bac Lieu
+#code:"12"
+    </a>
+    </td>
+    <td>
+
 
