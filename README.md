@@ -1,21 +1,29 @@
 # https:-xoso.com.vn/xo-so-mien-nam
-<a title="Ben Tre" href="/xo-so-mien-nam/xsbt-p1.html">
-    Ben Tre
-#code:"21"
+Date: Saturday 01 mooth 04 2023
+<a title="TPHCM"href="/xo-so-mien-nam/xstphcm-p1.html">
+    TPHCM
+#code:"16"
     </a>
     </td>
     <td>
-<a title="Vung Tau" href="/xo-so-mien-nam/xsvt-p1.html">
-    Vung Tau
-#code:"12"
+<a title="Long An" href="/xo-so-mien-nam/xsla-p1.html">
+    Long An
+#code:"16"
     </a>
     </td>
     <td>
-<a title="Bac Lieu" href="/xo-so-mien-nam/xsbl-p1.html">
-    Bac Lieu
-#code:"12"
+<a title="Binh Phuoc" href="/xo-so-mien-nam/xsbp-p1.html">
+    Binh Phuoc
+#code:"16"
     </a>
     </td>
     <td>
+<a title="Hau Giang" href="/xo-so-mien-nam/xshg-p1.html">
+    Hau Giang
+#code:"16"
+    </a>
+    </td>
+    <td>
+
 
 
