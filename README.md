@@ -1,6 +1,6 @@
 # https:-xoso.com.vn/xo-so-mien-nam
-Date: Saturday 01 mooth 04 2023
-<a title="TPHCM"href="/xo-so-mien-nam/xstphcm-p1.html">
+N
+< a title="TPHCM" href="/xo-so-mien-nam/xstphcm-p1.html" >
     TPHCM
 #code:"16"
     </a>
