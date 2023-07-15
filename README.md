@@ -1,29 +1,11 @@
-# https:-xoso.com.vn/xo-so-mien-nam
-N
-< a title="TPHCM" href="/xo-so-mien-nam/xstphcm-p1.html" >
-    TPHCM
-#code:"16"
-    </a>
-    </td>
-    <td>
-<a title="Long An" href="/xo-so-mien-nam/xsla-p1.html">
-    Long An
-#code:"16"
-    </a>
-    </td>
-    <td>
-<a title="Binh Phuoc" href="/xo-so-mien-nam/xsbp-p1.html">
-    Binh Phuoc
-#code:"16"
-    </a>
-    </td>
-    <td>
-<a title="Hau Giang" href="/xo-so-mien-nam/xshg-p1.html">
-    Hau Giang
-#code:"16"
-    </a>
-    </td>
-    <td>
-
-
-
+ <update>
+<user wifi name:" Be Ut ">
+</user>password:"beut1234">
+  </Advanced:192.168.1.1>
+ </update>"GMT +7/I corrected vpn localtion country to website playing star number in here and i want to bug lag numner i like go to website here.i gift money to my friend help i."
+   #https://xoso.com.vn
+ <html>
+ </html>
+ https-xoso.com.vn-xo-so-mien-nam.html
+    <a title=" Ipddress corected " href="/whatismyipaddress/ip/vpncorrecting">
+<VPN update everyday in 11:00 AM and checking VPN good>  
