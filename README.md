@@ -5,7 +5,7 @@
   <user: wifi name:"Nguyen Hong">
     <DNS1: # https://2402:800:62c7:b53a:bf22:30ba:f169:3137 >
     </MAC: #https://0c:c6:fd:a9:6a:87 >   </update>PAC</fe::80:f09f:b2c2:1140:f28b>
- </update>"GMT +7/I corrected vpn localtion country to website playing star number in here and i want to bug lag numner i like go to website here.i gift money to my friend help i."
+ </update>"GMT +7/I corrected vpn localtion country to website playing star number in here and i want to bug lag numner i like go to website here>
    #https://xoso.com.vn
  <html>
  </html>
