@@ -10,5 +10,23 @@
  <html>
  </html>
  https-xoso.com.vn-xo-so-mien-nam.html
-    <a title=" Ipddress corected " href="/whatismyipaddress/ip/vpncorrecting">
-<VPN update everyday in 11:00 AM and checking VPN good>
+ <a title "Tay Ninh" href="/xo-so-tay-ninh/xstn.p1-html">
+           TAY NINH
+ </a>
+    </td>
+    <td>
+<a title "An Giang" href="/xo-so-an-giang/xsag.p1-html">
+          AN GIANG
+</a>
+    </td>
+    <td>
+    <a title "Binh Thuan" href= "/xo-so-binh-thuan/xsbt.p1-html">
+              BINH THUAN
+    </a>
+    </td>
+    <td><td>
+    # </code:97>
+               </01>
+               </DNS1:123.23.201.1>
+               
+    
