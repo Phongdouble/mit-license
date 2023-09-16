@@ -1,13 +1,10 @@
 </update>
 # https://xoso.com.vn/xo-so-mien-nam.p1-html
-# https://xosodaiphat.com/xsmn-thu-7.html
-#xsmn thứ 7 ngày 16 tháng 9 năm 2023 
-</update code:44>
-<a title "Tien Giang" href="/xo-so-tien-giang/xstg-p1.html">
-   Tien Giang
-       </a>
-       </td>
-       <td>
+<a title "Tiền Giang" href="/xo-so-tien-giang/xo-so-tien-giang/xstg.p1-html">
+  TIỀN GIANG
+</a>
+    </td>
+    <td>
 <a title "Kien Giang" href="/xo-so-kien-giang/xskg-p1.html">
    Kien Giang
        </a>
