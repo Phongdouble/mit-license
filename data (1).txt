@@ -1,0 +1,86 @@
+<table border=1>
+	<thead>
+		<tr>
+			<th>
+				<!DOCTYPE html>
+				<html lang="en-US">
+					<head>
+						<title>Just a moment...</title>
+						<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+							<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+								<meta name="robots" content="noindex
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<a title"Đồng Nai" href="/xo-so-dong-nai/xsdn.p1-html">
+									</td>
+								</tr>
+								<tr>
+									<td>   ĐỒNG NAI</td>
+								</tr>
+								<tr>
+									<td>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td></td>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>
+									<a title"Cần Thơ" href="/xo-so-can-tho/xsct.p1-html">
+									</td>
+								</tr>
+								<tr>
+									<td>           CẦN THƠ</td>
+								</tr>
+								<tr>
+									<td>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td></td>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<td></td>
+							</tr>
+							<tr>
+								<td>
+									<a title"Sóc Trăng" href="/xo-so-soc-trang/xsst.p1-html">
+									</td>
+								</tr>
+								<tr>
+									<td>                   SÓC TRĂNG</td>
+								</tr>
+								<tr>
+									<td>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td></td>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<td>
+									<td></td>
+								</tr>
+								<tr>
+									<td>
+										<79>
+										</td>
+									</tr>
+								</tbody>
+							</table>
