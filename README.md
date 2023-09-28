@@ -15,5 +15,4 @@
    Binh Thuan
        </a>
        </td>
-       <td><td>
-       <70/27>
+       <td><td></td>
