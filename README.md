@@ -1,18 +1,18 @@
 # xsmn quay thử 
 # https://xoso.com.vn/quay-thu-xsmn.html
-</html>
-<a title "Tay Ninh" href="/xo-so-tay-ninh/xstn.p1-html">
-   Tay Ninh
+<a title "Vinh Long" href="/xo-so-vinh-long/xsvl-p1.html">
+   Vinh Long
+      </a>
+      </td>
+      <td>
+<a title "Binh Duong" href="/xo-so-binh-duong/xsbd-p1.html">
+   Binh Duong
        </a>
        </td>
        <td>
-<a title "An Giang" href="/xo-so-an-giang/xsag-p1.html">
-   An Giang
+<a title "Tra Vinh" href="/xo-so-tra-vinh/xstv-p1.html">
+   Tra Vinh
        </a>
        </td>
-       <td>
-<a title "Binh Thuan" href="/xo-so-binh-thuan/xsbt-p1.html>"
-   Binh Thuan
-       </a>
-       </td>
-       <td><td></td>
+       <td><td>
+       <71><71>
