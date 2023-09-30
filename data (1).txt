@@ -15,11 +15,11 @@
 						<tbody>
 							<tr>
 								<td>
-									<a title"Đồng Nai" href="/xo-so-dong-nai/xsdn.p1-html">
+									<a title "TPHCM" href="/xo-so-TPHCM/xshcm-p1.html">
 									</td>
 								</tr>
 								<tr>
-									<td>   ĐỒNG NAI</td>
+									<td>   TPHCM</td>
 								</tr>
 								<tr>
 									<td>
@@ -36,51 +36,79 @@
 							</tr>
 							<tr>
 								<td>
-									<a title"Cần Thơ" href="/xo-so-can-tho/xsct.p1-html">
+									<22>
 									</td>
 								</tr>
 								<tr>
-									<td>           CẦN THƠ</td>
-								</tr>
-								<tr>
 									<td>
-									</a>
-								</td>
-							</tr>
-							<tr>
-								<td></td>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>
-									<a title"Sóc Trăng" href="/xo-so-soc-trang/xsst.p1-html">
-									</td>
-								</tr>
-								<tr>
-									<td>                   SÓC TRĂNG</td>
-								</tr>
-								<tr>
-									<td>
-									</a>
-								</td>
-							</tr>
-							<tr>
-								<td></td>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>
-										<79>
+										<a title "Long An" href="/xo-so-long-an/xsla-p1.html">
 										</td>
 									</tr>
-								</tbody>
-							</table>
+									<tr>
+										<td>   Long An</td>
+									</tr>
+									<tr>
+										<td>
+										</a>
+									</td>
+								</tr>
+								<tr>
+									<td></td>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<td>
+										<22>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<a title "Binh Phuoc" href="/xo-so-binh-phuoc/xsbp-p1.html">
+											</td>
+										</tr>
+										<tr>
+											<td>   Binh Phuoc</td>
+										</tr>
+										<tr>
+											<td>
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td></td>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<td></td>
+									</tr>
+									<tr>
+										<td>
+											<a title "Hau Giang" href="/xo-so-hau-giang/xshg-p1.html">
+											</td>
+										</tr>
+										<tr>
+											<td>   Hau Giang</td>
+										</tr>
+										<tr>
+											<td>
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td></td>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<td>
+											<td></td>
+										</tr>
+										<tr>
+											<td>
+												<22>
+												</td>
+											</tr>
+										</tbody>
+									</table>
